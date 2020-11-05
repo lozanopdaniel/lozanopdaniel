@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Daniel Lozano, I'm currently learning about Web Development and introducing myself in the programming carrer. 
+I hope you like my improvement, thank you!
